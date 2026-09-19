@@ -4,7 +4,7 @@
 
 ## 📈 Progress
 
-**Completed: 1 / 510**
+**Completed: 2 / 510**
 
 ---
 
@@ -19,3 +19,4 @@
 ## 01 — TWO POINTERS
 
 8. - [x] **08** — #713 — **Medium** — Subarrays with Product Less than a Target
+9. - [x] **09** — #18 — **Medium** — 4Sum
